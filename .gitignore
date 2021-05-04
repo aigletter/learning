@@ -1,0 +1,4 @@
+.idea
+test.php
+data/*
+!data/config.php

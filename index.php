@@ -1,5 +1,7 @@
 <?php
 
+include 'Order.php';
+
 phpinfo();
 
-echo 'hello';
+$order = new Order();
