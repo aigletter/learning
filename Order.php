@@ -5,6 +5,6 @@ class Order
 {
     public function sayHello()
     {
-        echo 'Hello users';
+        echo 'Hello Bsers';
     }
 }
